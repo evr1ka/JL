@@ -1,2 +1,2 @@
 # JL
-code on Julia
+Сode in the language of Julia
